@@ -1,7 +1,0 @@
-﻿  dllmain.cpp
-  Generating code
-  17 of 221 functions ( 7.7%) were compiled, the rest were copied from previous compilation.
-    9 functions were new in current compilation
-    4 functions had inline decision re-evaluated but remain unchanged
-  Finished generating code
-  RuntimeJavaDumper.vcxproj -> C:\Users\user\source\repos\RuntimeJavaDumper\x64\Release\RuntimeJavaDumper.dll
